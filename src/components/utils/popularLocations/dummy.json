@@ -1,0 +1,49 @@
+{
+    "popular_locations": [
+        {
+            "id": 1,
+            "location": "Amsterdam",
+            "image": "https://images.pexels.com/photos/2031706/pexels-photo-2031706.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+            "id": 2,
+            "location": "Butapest",
+            "image": "https://images.pexels.com/photos/1480204/pexels-photo-1480204.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+            "id": 3,
+            "location": "New York",
+            "image": "https://images.pexels.com/photos/2168974/pexels-photo-2168974.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+            "id": 4,
+            "location": "Madrid",
+            "image": "https://images.pexels.com/photos/3722818/pexels-photo-3722818.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+            "id": 5,
+            "location": "Tokyo",
+            "image": "https://images.pexels.com/photos/427747/pexels-photo-427747.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+            "id": 6,
+            "location": "Paris",
+            "image": "https://images.pexels.com/photos/1461974/pexels-photo-1461974.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+            "id": 7,
+            "location": "Moscow",
+            "image": "https://images.pexels.com/photos/3934782/pexels-photo-3934782.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+            "id": 8,
+            "location": "Hon Kong",
+            "image": "https://images.pexels.com/photos/792832/pexels-photo-792832.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        },
+        {
+            "id": 9,
+            "location": "Los Angeles",
+            "image": "https://images.pexels.com/photos/3410816/pexels-photo-3410816.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+        }
+    ]
+}
